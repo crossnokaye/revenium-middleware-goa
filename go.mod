@@ -1,4 +1,4 @@
-module github.com/revenium/revenium-middleware-goa
+module github.com/crossnokaye/revenium-middleware-goa
 
 go 1.25.6
 
